@@ -1,2 +1,1 @@
-[WhatsApp Image 2023-04-29 at 16 23 42](https://user-images.githubusercontent.com/81759525/235299011-4c037a87-d25a-4620-b49c-8b8a76cd0082.jpg)
-
+![Calculator image](https://user-images.githubusercontent.com/81759525/235299094-c4872c5c-19e1-4ca8-9f2a-61d0172332eb.jpg)
