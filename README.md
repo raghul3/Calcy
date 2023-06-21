@@ -1,2 +1,4 @@
-![Calculator image](https://user-images.githubusercontent.com/81759525/235299094-c4872c5c-19e1-4ca8-9f2a-61d0172332eb.jpg)
 
+![converted](https://github.com/raghul3/Calculator/assets/81759525/5603946e-78f2-46fe-a34b-b571b882a399)
+
+Working Calcultor!
